@@ -22,7 +22,7 @@ import java.math.BigDecimal;
 import java.util.Collection;
 
 /**
- *
+ * Classe Entite représentant Discount
  * @author Diary
  */
 @Entity

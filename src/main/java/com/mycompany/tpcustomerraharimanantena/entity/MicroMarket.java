@@ -21,7 +21,7 @@ import java.io.Serializable;
 import java.util.Collection;
 
 /**
- *
+ * Classe Entite représentant MicroMarket
  * @author Diary
  */
 @Entity
